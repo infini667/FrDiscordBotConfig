@@ -15,5 +15,8 @@
         "2.2. Não postar mensagens de spam, flood, fake news e divulgação de outros servidores do Discord.",
         "2.3. É permitido a postagem de conteúdo próprio em #divulgações (Ex: Twitch, YouTube, Lojinha online etc.). São permitidas apenas 2 postagens por mês.",
         "2.4. Atente para o local da sua postagem. Temos canais de texto específicos para diferentes conteúdos."
+    ],
+    "teste": [
+        "Esse é o conteúdo da chave teste."
     ]
 }
