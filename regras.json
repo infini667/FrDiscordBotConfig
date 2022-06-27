@@ -1,8 +1,19 @@
 {
-    "titulo": [
-        "Regras do FR13NDS"
+    "regrasDeConduta": [
+        "Regras de conduta",
+        "1.1. Seja respeitoso com todos dentro do servidor (Trate os outros como você gostaria de ser tratado)",
+        "1.2. Não ofenda os outros integrantes do FR13NDS. (Não incomode, Não seja chato, Não seja insistente, Não interrompa quando alguém estiver falando).",
+        "1.3. Não pratique discursos de ódio, violência e/ou discriminação.",
+        "1.4. Configure seu microfone para evitar chiados e ruídos.",
+        "1.5. Não desacate as decisões tomadas pela administração (“não lave roupa suja no servidor”).",
+        "1.6. NÃO incentive e NÃO use hacks, trapaças e glitches.",
+        "1.7. Não atrapalhe o bom andamento das missões e entregas dentro dos jogos (Não seja babaca)."
     ],
-    "regras": [
-        
+    "regrasDePostagem": [
+        "Regras de postagem",
+        "2.1. Não postar conteúdo explícito: pornografia, violência, uso de drogas e atos maliciosos/criminosos.",
+        "2.2. Não postar mensagens de spam, flood, fake news e divulgação de outros servidores do Discord.",
+        "2.3. É permitido a postagem de conteúdo próprio em #divulgações (Ex: Twitch, YouTube, Lojinha online etc.). São permitidas apenas 2 postagens por mês.",
+        "2.4. Atente para o local da sua postagem. Temos canais de texto específicos para diferentes conteúdos."
     ]
 }
