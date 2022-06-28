@@ -1,6 +1,8 @@
-{
-    "teste": "Esse é o valor da chave teste." {
-        "nome": "teste",
-        "tentativa:" "2"
-    }
+"teste": {
+    "nome": "objeto 1",
+    "tentativa": 3
+}
+"teste2": {
+    "nome": "objeto 2",
+    "tentativa": 4
 }
