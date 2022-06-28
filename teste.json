@@ -1,8 +1,12 @@
-"teste": {
-    "nome": "objeto 1",
-    "tentativa": 3
+{
+    "teste": {
+        "nome": "objeto 1",
+        "tentativa": 3
+    }
 }
-"teste2": {
-    "nome": "objeto 2",
-    "tentativa": 4
+}
+    "teste2": {
+        "nome": "objeto 2",
+        "tentativa": 4
+    }
 }
