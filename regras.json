@@ -2,7 +2,7 @@
     "regrasDeConduta": {
         "tipo": "regra",
         "cor": "#94c7ff",
-        "titulo": "Regras de conduta",
+        "titulo": ":bookmark_tabs: Regras de conduta",
         "regras": [
             "1.1. Seja respeitoso com todos dentro do servidor (Trate os outros como você gostaria de ser tratado).",
             "1.2. Não ofenda os outros integrantes do FR13NDS. (Não incomode, Não seja chato, Não seja insistente, Não interrompa quando alguém estiver falando).",
@@ -16,7 +16,7 @@
     "regrasDePostagem": {
         "tipo": "regra",
         "cor": "#94c7ff",
-        "titulo": "Regras de postagem",
+        "titulo": ":speech_balloon: Regras de postagem",
         "regras": [
             "2.1. Não postar conteúdo explícito: pornografia, violência, uso de drogas e atos maliciosos/criminosos.",
             "2.2. Não postar mensagens de spam, flood, fake news e divulgação de outros servidores do Discord.",
